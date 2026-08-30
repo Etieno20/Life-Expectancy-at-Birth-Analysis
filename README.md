@@ -16,8 +16,7 @@ I used Microsoft Excel to clean, analyze, and visualize the data. I also created
 
 ### Dashboard
 
-![Global Life Expectancy Dashboard]
-(Global Life Expectancy Dashboard.png)
+![Global Life Expectancy Dashboard](Global Life Expectancy Dashboard.png)
 
 ## Tools Used
 
