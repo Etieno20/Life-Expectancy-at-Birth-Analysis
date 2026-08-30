@@ -15,8 +15,7 @@ I used Microsoft Excel to clean, analyze, and visualize the data. I also created
 - Africa had the lowest regional life expectancy, at about 63 years.
 
 ### Dashboard
-
-![Global Life Expectancy Dashboard](Global Life Expectancy Dashboard.png)
+![Global Life Expectancy Dashboard](Global%20Life%20Expectancy%20Dashboard.png)
 
 ## Tools Used
 
